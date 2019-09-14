@@ -1,6 +1,6 @@
 {
   "name": "praticas",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "curso boas praticas",
   "main": "index.js",
   "scripts": {
