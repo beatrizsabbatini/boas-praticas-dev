@@ -1,0 +1,19 @@
+{
+  "name": "praticas",
+  "version": "1.0.0",
+  "description": "curso boas praticas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beatrizsabbatini/boas-praticas-dev.git"
+  },
+  "author": "beatriz.sabbatini@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/beatrizsabbatini/boas-praticas-dev/issues"
+  },
+  "homepage": "https://github.com/beatrizsabbatini/boas-praticas-dev#readme"
+}
